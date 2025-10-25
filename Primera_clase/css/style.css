@@ -1,0 +1,28 @@
+body {
+     background-image: url(https://img.freepik.com/foto-gratis/representacion-3d-fondo-textura-hexagonal_23-2150796421.jpg?semt=ais_hybrid&w=740&q=80);
+     background-repeat: no-repeat;
+        background-size: cover; 
+}
+div {
+    text-align: center;
+}
+ h1, h2 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nombre {
+    font-size: 50px;
+}
+.nombre:hover {
+    color: tomato;
+}
+
+#mensaje {
+    font-size: 50px;
+    color: black;
+}
+
+.imagen_principal:hover {
+    border-style: solid;
+    border-color: white;
+}
